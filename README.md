@@ -8,7 +8,7 @@ edge, mono-spaced "STAY-####" id, stamped rating) on a cool paper canvas —
 a nod to the boarding-pass feel of planning a trip.
 
 ## Features
-
+hf
 - **Search** by hotel name or city
 - **Filter** by city, price range, and minimum rating
 - **Sort** by rating, price, or name (ascending/descending)
